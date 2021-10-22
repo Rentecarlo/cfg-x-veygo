@@ -25,9 +25,6 @@
     "storybook": "start-storybook -p 6006 -s public",
     "build-storybook": "build-storybook -s public"
   },
-  "resolutions": {
-    "babel-loader": "8."
-  },
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -57,12 +54,12 @@
     ]
   },
   "devDependencies": {
-    "@storybook/addon-actions": "6.4.0-alpha.23",
-    "@storybook/addon-essentials": "6.4.0-alpha.23",
-    "@storybook/addon-links": "6.4.0-alpha.23",
-    "@storybook/node-logger": "6.4.0-alpha.23",
+    "@storybook/addon-actions": "^6.3.12",
+    "@storybook/addon-essentials": "^6.3.12",
+    "@storybook/addon-links": "^6.3.12",
+    "@storybook/node-logger": "^6.3.12",
     "@storybook/preset-create-react-app": "^3.2.0",
-    "@storybook/react": "6.4.0-alpha.23",
+    "@storybook/react": "^6.3.12",
     "@types/styled-components": "^5.1.15"
   }
 }
