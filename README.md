@@ -8,7 +8,7 @@ It was bootstrapped with [Create React App](https://github.com/facebook/create-r
 ### `npm install`
 
 Installs packages for the project.
-(See the setup document if you don't already have npm installed).
+(See the setup document if you don't already have npm installed - you need node v14.18.1 to run this project).
 
 ## Available Scripts
 
